@@ -1,6 +1,6 @@
 {
   "name": "scroll-to-y",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Performant scroll to an arbitrary Y",
   "main": "scroll-to-y.js",
   "scripts": {
