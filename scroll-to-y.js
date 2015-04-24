@@ -55,7 +55,6 @@ var scrollToY = function(scrollTargetY, speed, easing) {
 
             global.scrollTo(0, scrollY + ((scrollTargetY - scrollY) * t));
         } else {
-            console.log('scroll done');
             global.scrollTo(0, scrollTargetY);
         }
     }
